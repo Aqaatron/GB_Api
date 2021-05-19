@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AtkcAD32rClsGiBSp1xATj7XBeMtWjVvb5Wgi6kPJR8LKc3jkLCn2O37BjCGU1qSYhZat6Ri2Nm/Jq4ih3yh1w==",
+  "dgSpecHash": "OZFloGR5Hmql4Ald7ZWsEQg9Eyr/O2xlvGtWfW9roiE4F8J19LzTG+3OICztoJGYfzS95cQqzmYYGv5BRoGsyw==",
   "success": true,
-  "projectFilePath": "D:\\GeekBrainsHome_Tasks_v3\\MetricsService\\MetricsAgent\\MetricsAgent.csproj",
+  "projectFilePath": "D:\\GB_Api\\MetricsService\\MetricsAgent\\MetricsAgent.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",

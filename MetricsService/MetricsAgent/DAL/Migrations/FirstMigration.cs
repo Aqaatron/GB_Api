@@ -40,6 +40,14 @@ namespace MetricsAgent.DAL.Migrations
         public override void Down()
         {
             Delete.Table("cpumetrics");
+
+            Delete.Table("dotnetmetrics");
+
+            Delete.Table("hddmetrics");
+
+            Delete.Table("rammetrics");
+
+            Delete.Table("networkmetrics");
         }
     }
 }

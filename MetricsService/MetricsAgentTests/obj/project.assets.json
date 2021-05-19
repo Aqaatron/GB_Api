@@ -8271,11 +8271,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GeekBrainsHome_Tasks_v3\\MetricsService\\MetricsAgentTests\\MetricsAgentTests.csproj",
+      "projectUniqueName": "D:\\GB_Api\\MetricsService\\MetricsAgentTests\\MetricsAgentTests.csproj",
       "projectName": "MetricsAgentTests",
-      "projectPath": "D:\\GeekBrainsHome_Tasks_v3\\MetricsService\\MetricsAgentTests\\MetricsAgentTests.csproj",
+      "projectPath": "D:\\GB_Api\\MetricsService\\MetricsAgentTests\\MetricsAgentTests.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\GeekBrainsHome_Tasks_v3\\MetricsService\\MetricsAgentTests\\obj\\",
+      "outputPath": "D:\\GB_Api\\MetricsService\\MetricsAgentTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8292,11 +8292,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\GeekBrainsHome_Tasks_v3\\MetricsService\\MetricsAgent\\MetricsAgent.csproj": {
-              "projectPath": "D:\\GeekBrainsHome_Tasks_v3\\MetricsService\\MetricsAgent\\MetricsAgent.csproj"
+            "D:\\GB_Api\\MetricsService\\MetricsAgent\\MetricsAgent.csproj": {
+              "projectPath": "D:\\GB_Api\\MetricsService\\MetricsAgent\\MetricsAgent.csproj"
             },
-            "D:\\GeekBrainsHome_Tasks_v3\\MetricsService\\MetricsManager\\MetricsManager.csproj": {
-              "projectPath": "D:\\GeekBrainsHome_Tasks_v3\\MetricsService\\MetricsManager\\MetricsManager.csproj"
+            "D:\\GB_Api\\MetricsService\\MetricsManager\\MetricsManager.csproj": {
+              "projectPath": "D:\\GB_Api\\MetricsService\\MetricsManager\\MetricsManager.csproj"
             }
           }
         }

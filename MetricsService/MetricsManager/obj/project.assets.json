@@ -7240,11 +7240,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GeekBrainsHome_Tasks_v3\\MetricsService\\MetricsManager\\MetricsManager.csproj",
+      "projectUniqueName": "D:\\GB_Api\\MetricsService\\MetricsManager\\MetricsManager.csproj",
       "projectName": "MetricsManager",
-      "projectPath": "D:\\GeekBrainsHome_Tasks_v3\\MetricsService\\MetricsManager\\MetricsManager.csproj",
+      "projectPath": "D:\\GB_Api\\MetricsService\\MetricsManager\\MetricsManager.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\GeekBrainsHome_Tasks_v3\\MetricsService\\MetricsManager\\obj\\",
+      "outputPath": "D:\\GB_Api\\MetricsService\\MetricsManager\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
